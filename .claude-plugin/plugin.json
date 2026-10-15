@@ -1,0 +1,10 @@
+{
+  "name": "anz-marketing",
+  "version": "0.1.0",
+  "description": "Marketing skills for New Zealand, Australia and Auckland: local SEO, email and SMS compliance, ad claims, local spelling and te reo Māori, the ANZ marketing calendar, and Auckland local marketing.",
+  "author": { "name": "Amber Lan", "url": "https://flowai.co.nz" },
+  "homepage": "https://flowai.co.nz/skills/",
+  "repository": "https://github.com/Amberlanqinyun/anz-marketing-skills",
+  "license": "MIT",
+  "keywords": ["new zealand", "australia", "auckland", "nz", "au", "anz", "local seo", "marketing compliance", "spam act", "te reo maori", "claude code", "agent skills"]
+}

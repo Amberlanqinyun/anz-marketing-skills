@@ -1,0 +1,27 @@
+{
+  "name": "anz-marketing-skills",
+  "owner": {
+    "name": "Amber Lan, Flow AI",
+    "url": "https://flowai.co.nz"
+  },
+  "plugins": [
+    {
+      "name": "anz-marketing",
+      "source": "./",
+      "description": "Six marketing skills for New Zealand and Australia, built in Auckland.",
+      "category": "marketing",
+      "tags": [
+        "new-zealand",
+        "australia",
+        "auckland",
+        "local-seo",
+        "compliance",
+        "marketing"
+      ]
+    }
+  ],
+  "metadata": {
+    "description": "Claude Code marketing skills for New Zealand, Australia and Auckland: local SEO, email and SMS compliance, ad claims, local spelling and te reo Māori, the ANZ marketing calendar, and Auckland local marketing.",
+    "version": "0.1.0"
+  }
+}
